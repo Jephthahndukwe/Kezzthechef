@@ -1,0 +1,13 @@
+.promo-bg {
+    background-image: url(../Assets/breadcrumb-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    margin-top: 6.5rem;
+}
+
+.promo {
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+}
+

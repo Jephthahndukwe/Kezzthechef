@@ -1,0 +1,172 @@
+.about-bg {
+    background-image: url(../Assets/breadcrumb-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    margin-top: 6.5rem;
+}
+.about-company {
+    margin-top: 10rem;
+}
+.about-company-text {
+    margin-top: 11rem;
+    margin-left: 3rem;
+}
+.about-company-text h6 {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+}
+.about-company-text p {
+    color: #6f6f6f;
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: left;
+    font-family: 'poppins', sans-serif;
+}
+
+.about-team {
+    margin-top: 8rem;
+}
+.about-team h6 {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+}
+.about-team p {
+    color: #6f6f6f;
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: left;
+    font-family: 'poppins', sans-serif;
+}
+.about-team-text {
+    margin-top: 11rem;
+    margin-right: 3rem;
+}
+
+.about-vision {
+    margin-top: 5rem;
+    background-color: #f3f2ee;
+    width: 100%;
+    height: 60vh;
+    padding-top: 5rem;
+}
+
+.about-vision img {
+    margin-left: 9rem;
+}
+.about-vision h6 {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: left;
+}
+.about-vision p {
+    color: #6f6f6f;
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: left;
+    font-family: 'poppins', sans-serif;
+}
+
+.about-years {
+    padding: 60px;
+    margin-top: 3rem;
+}
+
+.years-bg {
+    background-image: linear-gradient(to bottom,
+     #fff 0%,
+     #fff 50%,
+     #0f273dd2 50%,
+     #0f273dd2 100%);
+     width: 25%;
+     height: 35vh;
+     box-shadow: 5px 3px 10px #3333338f;
+}
+.years-sec-bg {
+    position: relative;
+    top: 1rem;
+    background-color: #fff;
+    height: 30vh;
+    width: 87%;
+    margin-left: 1rem;
+    padding-top: 3rem;
+    box-shadow: 3px 0px 3px 1px #3333338f;
+}
+.years-sec-bg h5 {
+    color: #333333;
+    font-size: 35px;
+    line-height: 30px;
+    font-style: 600;
+    font-family: 'poppins', sans-serif;
+    margin-left: 5.5rem;
+}
+.years-sec-bg h6 {
+    color: #6f6f6f;
+    font-size: 18px;
+    margin-top: 2rem;
+    font-family: 'poppins', sans-serif;
+    font-weight: 600;
+}
+.years-icon {
+    background-color: rgba(19, 35, 50, 0.404);
+    width: 8%;
+    margin-top: -1rem;
+    height: 15%;
+    position: absolute;
+    left: 9.6rem;
+    font-size: 36px;
+}
+.icon2 {
+    left: 29.3rem;
+}
+.icon3 {
+    left: 49rem;
+}
+.icon4 {
+    left: 68rem;
+}
+.year-icon-bg {
+    width: 80px;
+    height: 70px;
+    margin-top: 0.7rem;
+    margin-left: 1rem;
+    padding-left: 1.2rem;
+    background-color: #fff;
+}
+
+.about-our-team {
+    margin-top: 7rem;
+}
+.about-our-team h4 {
+    font-size: 15px;
+    font-family: 'poppins', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+.about-our-team h3 {
+    color: #333333;
+    font-size: 44px;
+    line-height: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+.about-our-team img {
+    width: 90%;
+    height: 80%;
+}
+.about-our-team h5 {
+    font-size: 18px;
+    font-family: 'poppins', sans-serif !important;
+    font-weight: 600 !important;
+}
+.about-our-team h6 {
+    color: #6f6f6f;
+    font-size: 15px;
+    font-family: 'poppins', sans-serif;
+    font-weight: 400;
+}

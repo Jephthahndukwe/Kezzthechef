@@ -1,0 +1,141 @@
+.contact-bg {
+    margin-top: 6.7rem;
+    background-image: url(../Assets/breadcrumb-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+.bg-text {
+    padding-top: 8rem;
+}
+.bg-text h2 {
+    font-family: 'B612', sans-serif;
+    font-size: 40px;
+    color: #fff;
+    line-height: 59px;
+    font-weight: 700;
+}
+.bg-link {
+    margin-top: 1rem;
+    margin-left: 38.3rem;
+}
+.bg-link {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 17.5px;
+}
+.bg-link a:hover {
+    color: #f79a34 !important;
+}
+
+.contact-contain {
+    margin-left: 10rem !important;
+}
+
+.contact-info{
+    margin-left: -4rem;
+    margin-top: 1rem;
+}
+.contact-info h4 {
+    color: #414141;
+    font-family: 'B612', sans-serif;
+    font-size: 23px;
+    line-height: 19.8px;
+    font-weight: 700;
+    text-align: start;
+}
+.contact-info p {
+    color: #414141;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 17.5px;
+    font-weight: 400;
+}
+.info-icons {
+    color: #878787;
+    font-size: 30px;
+    vertical-align: middle;
+    font-weight: 400;
+}
+.contact-form {
+    border: 1px solid #ebebeb;
+    padding: 30px;
+    width: 80%;
+}
+.contact-form input {
+    margin-left: 13rem;
+    padding: 10px 10px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #ebebeb;
+    outline: none;
+}
+.con-atach {
+    background-color: #ebebeb;
+    width: 400px;
+    height: 45px;
+    margin-left: 10.5rem;
+    position: relative;
+    top: -3rem;
+    border-radius: 5px;
+    cursor: not-allowed;
+}
+.con-atach input {
+    display: none;
+    cursor: pointer;
+}
+.con-atach p {
+    position: relative;
+    top: 3.2rem;
+    background-color: #f79a34;
+    padding: 14px;
+    width: 130px;
+    margin-top: -3.2rem;
+    margin-left: 16.8rem;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 11px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.contact-form select {
+    background-color: #ebebeb;
+    color: #878787;
+    padding: 10px 10px;
+    width: 400px;
+    border: none;
+    outline: none;
+    margin-left: 12.2rem;
+    border-radius: 5px;
+}
+.contact-form textarea {
+    background-color: #fff;
+    border: 1px solid #ebebeb;
+    padding: 10px;
+    width: 550px;
+    height: 120px;
+    margin-left: 11.8rem;
+    outline: none;
+    margin-top: -1rem;
+}
+.lab-mess {
+    position: relative;
+    top: -6rem;
+}
+.contact-form button {
+    margin-top: 1rem;
+    margin-left: 43.2rem;
+    background-color: #132332;
+    padding: 12px 10px;
+    width: 110px;
+    border: none;
+    border-radius: 13px;
+    color: #fff;
+    font-family: 'Open sans', sans-serif;
+    font-weight: 400;
+}

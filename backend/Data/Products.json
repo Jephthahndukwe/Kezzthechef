@@ -1,0 +1,102 @@
+[
+    {
+      "name": "Cakes",
+      "price": "45.00",
+      "description": "A cake is a sweet food made by baking a mixture of flour, eggs, sugar, and fat in an oven. Cakes may be large and cut into slices or small and intended for one person only.",
+      "ratings": 4.5,
+      "images": [{
+        "public_id": "product/Cakes",
+        "url": "https://plus.unsplash.com/premium_photo-1670426502280-8985122ab689?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      }],
+      "category": "Cakes",
+      "seller": "kezzthechef",
+      "stock": "50",
+      "numOfReviews": 32,
+      "reviews": []
+    },
+    {
+        "name": "Pastries",
+        "price": "50.00",
+        "description": "PASTRES (Pastoralism, Uncertainty and Resilience: Global Lessons from the Margins) is a research project which aims to learn from the ways that pastoralists respond to uncertainty, applying such 'lessons from the margins' to global challenges",
+        "ratings": 3.5,
+        "images": [{
+          "public_id": "product/Pastries",
+          "url": "https://plus.unsplash.com/premium_photo-1669687759435-c1dc7e707e0f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80"
+        }],
+        "category": "Pastries",
+        "seller": "kezzthechef",
+        "stock": "70",
+        "numOfReviews": 20,
+        "reviews": []
+      },
+      {
+        "name": "Food",
+        "price": "30.00",
+        "description": "food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. The absorption and utilization of food by the body is fundamental to nutrition and is facilitated by digestion.",
+        "ratings": 5,
+        "images": [{
+          "public_id": "product/Food",
+          "url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+        }],
+        "category": "Food",
+        "seller": "kezzthechef",
+        "stock": "90",
+        "numOfReviews": 60,
+        "reviews": []
+      },
+      {
+        "name": "Cocktails",
+        "price": "90.00",
+        "description": "A cocktail drink is any mixed drink with at least two cocktail ingredients and is usually alcohol-based. Cocktails typically have a base liquor, like vodka or gin, and come with other flavored ingredients like fruit juice. Some drinks are simple and only involve two liquid ingredients",
+        "ratings": 4,
+        "images": [{
+          "public_id": "product/Cocktails",
+          "url": "https://images.unsplash.com/photo-1570598912132-0ba1dc952b7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+        }],
+        "category": "Cocktails",
+        "seller": "kezzthechef",
+        "stock": "40",
+        "numOfReviews": 30,
+        "reviews": []
+      },
+      {
+        "name": "Deserts",
+        "price": "30.00",
+        "description": "dessert, the last course of a meal. In the United States dessert is likely to consist of pastry, cake, ice cream, pudding, or fresh or cooked fruit.",
+        "ratings": 2,
+        "images": [{
+          "public_id": "product/Deserts",
+          "url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+        }],
+        "category": "Deserts",
+        "seller": "kezzthechef",
+        "stock": "10",
+        "numOfReviews": 20,
+        "reviews": []
+      },
+      {
+        "name": "Small Chops",
+        "price": "100.00",
+        "description": "Small chops are finger foods such as samosas, spring rolls, puff-puff, etc. They are usually used at occasions and events as appetizers, until the main meal comes. They are very delicious and can be eaten as snacks along with cold drinks, tea or water.",
+        "ratings": 1,
+        "images": [
+            {
+                "public_id": "product/Small Chops",
+                "url": "https://images.unsplash.com/photo-1634497980342-15b37eddb0c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+            },
+            {
+                "public_id": "product/Small Chops",
+                "url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+            },
+            {
+                "public_id": "product/Small Chops",
+                "url": "https://images.unsplash.com/photo-1570598912132-0ba1dc952b7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+            }
+    ],
+        "category": "Small Chops",
+        "seller": "kezzthechef",
+        "stock": "30",
+        "numOfReviews": 70,
+        "reviews": []
+      }
+]

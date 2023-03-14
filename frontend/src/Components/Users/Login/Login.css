@@ -1,0 +1,70 @@
+.login-head {
+    background-color: #fff;
+    border: 1px solid #eeeded;
+    box-shadow: 4px 4px 10px #000;
+    padding: 1rem 3rem;
+    width: 60%;
+    margin: 13rem 14rem;
+}
+.login-tag {
+    margin-left: 3rem;
+}
+.login-head h3 {
+    color: #142332;
+}
+.login-details input {
+    width: 100%;
+    padding: 10px 10px;
+    border: 1px solid #142332;
+    background: transparent;
+    margin-top: 0.5rem;
+    outline: none;
+}
+.login-details label {
+    color: #6f6f6f;
+    font-size: 15px;
+    font-family: 'poppins', sans-serif;
+    font-weight: 400;
+    text-align: left;
+    margin-top: 1rem;
+}
+
+.login-details button {
+    background: transparent;
+    border: 2px solid #142332;
+    font-family: 'poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    padding: 8px 10px;
+    width: 110px;
+    margin-top: 2rem;
+    color: #142332;
+}
+.login-details button:hover {
+    background-color: #142332;
+    color: #fff;
+    transition: 0.5s;
+}
+.login-details a {
+    color: #333;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: start;
+    font-family: 'poppins', sans-serif;
+    line-height: 16px;
+}
+.login-details a:hover {
+    color: #f79a34;
+}
+.login-details p {
+    color: #333;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: start;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+.login-details p:hover {
+    color: #f79a34;
+}

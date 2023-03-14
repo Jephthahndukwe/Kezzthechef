@@ -1,0 +1,65 @@
+/* User Profile */
+
+.avatar-profile {
+    height: 16rem;
+    width: 16rem;
+    object-fit: contain;
+  }
+  
+  .user-info h4 {
+    font-weight: 800;
+    color: grey;
+  }
+  
+  .user-info p {
+    font-size: 1.1rem;
+  }
+  
+  #edit_profile {
+    background-color: #fa9c23;
+    border-color: #fa9c23;
+  }
+
+  .update-btn {
+  background-color: #fa9c23;
+  border-color: #fa9c23;
+  color: white;
+}
+
+.update-btn:hover {
+  color: white;
+}
+.my-profile {
+  margin-top: 10rem;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+
+  font-weight: 700;
+}
+
+.wrapper form {
+  padding: 2.5rem 3rem;
+}
+
+.wrapper form .btn {
+  background-color: #fa9c23;
+  border-color: #fa9c23;
+  color: white;
+  margin-top: 2.5rem;
+}
+
+.wrapper form a {
+  font-size: 0.9rem;
+  color: grey;
+}
+
+.update-user {
+  margin-top: 10rem;
+}
+.forgot-password {
+  margin-top: 13rem;
+}
