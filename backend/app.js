@@ -4,7 +4,7 @@ const app = express();
 const cookieParser = require('cookie-parser');
 const bodyParser = require('body-parser')
 const fileUpload = require('express-fileupload')
-const dotenv = require('dotenv').config({ path: 'backend/config/config.env' });
+const dotenv = require('dotenv').config({ path: './config/config.env' });
 const path = require('path')
 
 
